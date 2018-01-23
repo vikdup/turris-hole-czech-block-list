@@ -9,6 +9,7 @@ But please, don't sabotage this list with ading addresses to normal webpages lik
 
 
 CZ
+
 Ahoj, toto je list zdrojů reklam, sledování a dalšího svinstva internetu. 
 Původně jsem tento dokument vytvořil pro užití s Pi-hole v routeru Turris Omnia
 Přispívat může každý.
