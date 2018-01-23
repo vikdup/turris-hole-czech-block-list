@@ -7,14 +7,14 @@
 ####################################################################################################################
 
 #CZ
-#Ahoj, toto je list zdrojù reklam, sledování a dalšího svinstva internetu. 
-#Pùvodnì jsem tento dokument vytvoøil pro uití s Pi-hole v routeru Turris Omnia
-#Pøispívat mùe kadı.
-#Prosím nesabotovat (mazat bezdùvodnì a pøidávat nìco, co sem nepatøí)!
+#Ahoj, toto je list zdrojÅ¯ reklam, sledovÃ¡nÃ­ a dalÅ¡Ã­ho svinstva internetu. 
+#PÅ¯vodnÃ¬ jsem tento dokument vytvoÅ™il pro uÅ¾itÃ­ s Pi-hole v routeru Turris Omnia
+#PÅ™ispÃ­vat mÃ¹Å¾e kaÅ¾dÃ½.
+#ProsÃ­m nesabotovat (mazat bezdÅ¯vodnÃ© a pÅ™idÃ¡vat nÄ›co, co sem nepatÅ™Ã­)!
 
 ####################################################################################################################
 
-#The list starts here/List zaèíná zde:
+#The list starts here/List zaÃ¨Ã­nÃ¡ zde:
 
 1gr.cz
 2975c.v.fwmrm.net
